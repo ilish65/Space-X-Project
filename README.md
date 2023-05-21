@@ -7,7 +7,7 @@ First we get the data from API or using web scraping and convert it to <bold>Dat
 Then we clean the data an handle missing values 
 </br>
 Finally we use foure machine learning methods to estimate the best model.
-
+<hr/>
 <h3>1. Logistic Regression :</h3>Logistic regression is a binary classification model that uses a logistic function to map input variables to a probability of belonging to a particular class. It is widely used in machine learning applications where the goal is to predict a binary outcome.
 <br/>
 <h3>2. KNN :</h3>The k-nearest neighbors (KNN) algorithm is a non-parametric classification method that assigns a test data point to the class most common among its k nearest neighbors in the training set. It is a simple yet effective machine learning model used for both classification and regression problems.
