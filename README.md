@@ -2,7 +2,11 @@
 
 The project task is to predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully. Data science methodologies have been applied to analyse launch data and optimise prediction of launches. SpaceX can reuse the first stage.
 <br/>
-we use foure machine learning methods to estimate the best model.
+First we get the data from API or using web scraping and convert it to <bold>DataFrame</bold>
+<br/>
+Then we clean the data an handle missing values 
+</br>
+Finally we use foure machine learning methods to estimate the best model.
 
 <h3>1. Logistic Regression :</h3>Logistic regression is a binary classification model that uses a logistic function to map input variables to a probability of belonging to a particular class. It is widely used in machine learning applications where the goal is to predict a binary outcome.
 <br/>
